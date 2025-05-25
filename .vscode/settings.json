@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "github.copilot.enable":{
+        "autoComplete": false,
+    },
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
